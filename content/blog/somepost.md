@@ -13,7 +13,7 @@ Hello! This is my first post!
 ## Some subheading
 Let me try to show some C# code!
 
-{% mermaid() %}
+{% <mermaid> %}
 
 sequenceDiagram
     participant Alice
@@ -27,7 +27,7 @@ sequenceDiagram
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
 
-{% end %}
+{% </mermaid> %}
 
 ```csharp
 public class HelloWorld {
