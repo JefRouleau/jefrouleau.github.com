@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>JFR</title>
+    <subtitle>C# dev dude</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blog.bugslayer.ca/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-09-01T00:00:00+00:00</updated>
+    <id>https://blog.bugslayer.ca/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Adam&#39;s Post</title>
+        <published>2025-09-01T00:00:00+00:00</published>
+        <updated>2025-09-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>JefRouleau</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/adamspost/"/>
+        <id>https://blog.bugslayer.ca/adamspost/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/adamspost/">&lt;h1 id=&quot;paragrap&quot;&gt;Paragrap&lt;/h1&gt;
+&lt;p&gt;Hi ! I am NOT master of this website.&lt;/p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;/h2&gt;
+&lt;p&gt;I am Adam, the son of the original BugSlayer. The absolute best programmer that has ever blessed the software engineering world.&lt;/p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>About</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>JefRouleau</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/about/"/>
+        <id>https://blog.bugslayer.ca/about/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/about/">&lt;h2 id=&quot;hello-world&quot;&gt;Hello World&lt;/h2&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The first post</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>JefRouleau</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/blog/20250823-first-post/"/>
+        <id>https://blog.bugslayer.ca/blog/20250823-first-post/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/blog/20250823-first-post/">&lt;h1 id=&quot;paragrap&quot;&gt;Paragrap&lt;/h1&gt;
+&lt;p&gt;Hello! This is my first post!&lt;/p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;/h2&gt;
+&lt;p&gt;Let me try to show some C# code!&lt;/p&gt;
+&lt;pre class=&quot;mermaid bg-inherit&quot;&gt;
+  sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice-&gt;&gt;John: Hello John, how are you?
+    loop Healthcheck
+        John-&gt;&gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts &lt;br/&gt;prevail!
+    John--&gt;&gt;Alice: Great!
+    John-&gt;&gt;Bob: How about you?
+    Bob--&gt;&gt;John: Jolly good!
+&lt;/pre&gt;
+&lt;pre class=&quot;giallo&quot; style=&quot;color: #BFBDB6; background-color: #0D1017;&quot; &gt;&lt;code data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span style=&quot;color: #FF8F40;&quot;&gt;public class&lt;/span&gt;&lt;span style=&quot;color: #59C2FF;&quot;&gt; HelloWorld&lt;/span&gt;&lt;span&gt; {&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span style=&quot;color: #FF8F40;&quot;&gt;    public static void&lt;/span&gt;&lt;span style=&quot;color: #FFB454;&quot;&gt; Main&lt;/span&gt;&lt;span&gt;() {&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Console&lt;/span&gt;&lt;span style=&quot;color: #F29668;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #FFB454;&quot;&gt;WriteLine&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span style=&quot;color: #AAD94C;&quot;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;&lt;span style=&quot;color: #BFBDB6B3;&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    }&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;How does it look?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not bad my man!&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Projects</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>JefRouleau</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/projects/"/>
+        <id>https://blog.bugslayer.ca/projects/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/projects/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Some post 1</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>JefRouleau</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/somepost1/"/>
+        <id>https://blog.bugslayer.ca/somepost1/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/somepost1/">&lt;h1 id=&quot;paragrap&quot;&gt;Paragrap&lt;/h1&gt;
+&lt;p&gt;Yep this is some post I want&lt;/p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;/h2&gt;
+&lt;p&gt;Let me try to show some C# code!&lt;/p&gt;
+&lt;pre class=&quot;giallo&quot; style=&quot;color: #BFBDB6; background-color: #0D1017;&quot; &gt;&lt;code data-lang=&quot;csharp&quot;&gt;&lt;span class=&quot;giallo-l&quot;&gt;&lt;span style=&quot;color: #FF8F40;&quot;&gt;public class&lt;/span&gt;&lt;span style=&quot;color: #59C2FF;&quot;&gt; HelloWorld&lt;/span&gt;&lt;span&gt; {&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span style=&quot;color: #FF8F40;&quot;&gt;    public static void&lt;/span&gt;&lt;span style=&quot;color: #FFB454;&quot;&gt; Main&lt;/span&gt;&lt;span&gt;() {&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;        Console&lt;/span&gt;&lt;span style=&quot;color: #F29668;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;color: #FFB454;&quot;&gt;WriteLine&lt;/span&gt;&lt;span&gt;(&lt;/span&gt;&lt;span style=&quot;color: #AAD94C;&quot;&gt;&amp;quot;Hello, world!&amp;quot;&lt;/span&gt;&lt;span&gt;)&lt;/span&gt;&lt;span style=&quot;color: #BFBDB6B3;&quot;&gt;;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;    }&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;giallo-l&quot;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;How does it look?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not bad my man!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;/images/DoomDarkAges.jpg&quot; alt=&quot;Doom Dark Ages&quot; /&gt;&lt;/p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Some post 2</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>JefRouleau</name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/somepost2/"/>
+        <id>https://blog.bugslayer.ca/somepost2/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/somepost2/">&lt;h1 id=&quot;post-2&quot;&gt;Post 2&lt;/h1&gt;
+&lt;p&gt;Yep this is some post I want&lt;/p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;/h2&gt;
+&lt;p&gt;Let me try to show some C# code!&lt;/p&gt;
+&lt;p&gt;How does it look?&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not bad my man!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.bugslayer.ca/somepost2/SomeImage.jpg&quot; alt=&quot;SomeImage&quot; /&gt;&lt;/p&gt;
+</content>
+        
+    </entry>
+</feed>
